@@ -1,0 +1,18 @@
+HIGH (top) TO LOW (bottom) PRIORITY
+
+OVERHAUL EVERYTHING - 
+1 Window base class (everything in windows instead of predefined locations)
+1 Shop window class
+1 Bit Miner window class
+0 BM Injector (?)
+0 BM
+
+0 make reset loop work
+0 better money calculations
+0 change up part formulas (maybe slower exponential with last lootbox costing trillions???)
+0 reset loop 1 adds more upgrades leading to reset loop 2 
+
+0 Make savegames
+
+0 reset loop 2 (maybe skill tree?) TBD (to be decided)
+

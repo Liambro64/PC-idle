@@ -1,0 +1,4 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" editor-extension-mode="True">
+    <uie:ObjectField label="GameManager" name="GameManager" type="GameManager, Assembly-CSharp" data-source-type="InventoryController, Assembly-CSharp" data-source-path="gm" style="height: 33px;" />
+    <ui:ListView name="Inventory" data-source-type="InventoryController, Assembly-CSharp" data-source-path="inv.slot" />
+</ui:UXML>

@@ -1,0 +1,14 @@
+HIGH (top) TO LOW (bottom) PRIORITY
+
+OVERHAUL SINGLEUPGRADES
+
+
+make reset loop work
+better money calculations
+change up part formulas (maybe slower exponential with last lootbox costing trillions???)
+reset loop 1 adds more upgrades leading to reset loop 2 
+
+Make savegames
+
+reset loop 2 (maybe skill tree - esc?) TBD (to be decided)
+
